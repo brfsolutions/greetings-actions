@@ -6,7 +6,7 @@
     "sourceMap": true,
     "target": "ES6",
     "declaration": false,
-    "outDir": "src/main/resources",
+    "outDir": "../../resources",
     "alwaysStrict": false,
     "module": "none"
   },
