@@ -1,3 +1,6 @@
-"scripts": {
-  "build": "tsc"
+{
+  "name": "my-awesome-package",
+  "scripts": {
+    "build": "tsc"
+  }
 }
