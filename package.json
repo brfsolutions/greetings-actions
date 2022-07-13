@@ -1,6 +1,6 @@
 {
   "name": "my-awesome-package",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc --project src/main/webapp/ts/tsconfig.json"
   }
 }
