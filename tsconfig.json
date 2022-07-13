@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "ES6",
+    "declaration": false,
+    "outDir": "src/main/webapp/js",
+    "alwaysStrict": false,
+    "module": "none"
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.ts.jsp"
+  ],
+  "compileOnSave": true
+}
