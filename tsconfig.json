@@ -6,7 +6,7 @@
     "sourceMap": true,
     "target": "ES6",
     "declaration": false,
-    "outDir": "src/main/java/js",
+    "outDir": "src/main/resources",
     "alwaysStrict": false,
     "module": "none"
   },
